@@ -1,0 +1,12 @@
+[{
+  "titulo": "Titulo 1",
+  "autor": "Autor 1",
+  "genero": "Terror",
+  "anioPublicacion": "1982"
+},
+  {
+    "titulo": "Titulo 2",
+    "autor": "Autor 2",
+    "genero": "Romance",
+    "anioPublicacion": "2025"
+  }]
